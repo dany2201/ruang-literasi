@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 510">
+<defs><linearGradient id="g" x2="0" y2="1"><stop stop-color="#e0c5aa"/><stop offset="1" stop-color="#a4af9a"/></linearGradient><linearGradient id="h" x2="1" y2="1"><stop stop-color="#8d9a80"/><stop offset="1" stop-color="#a4af9a"/></linearGradient></defs>
+<rect width="720" height="510" fill="url(#g)"/><circle cx="510" cy="175" r="115" fill="#faf0d9" opacity=".92"/><circle cx="510" cy="175" r="152" fill="none" stroke="#fff" stroke-opacity=".48"/><circle cx="510" cy="175" r="195" fill="none" stroke="#fff" stroke-opacity=".26"/>
+<path d="M0 355 Q140 265 250 360 T530 328 T720 345 V510 H0Z" fill="#a4af9a" opacity=".55"/>
+<path d="M0 418 Q190 305 370 410 T720 372 V510 H0Z" fill="#8d9a80" opacity=".7"/>
+<path d="M244 510 Q300 380 283 190" stroke="#8d9a80" stroke-width="12" fill="none" stroke-linecap="round"/>
+<path d="M282 317 Q148 300 170 187 Q283 188 282 317Z" fill="url(#h)"/>
+<path d="M285 270 Q383 245 391 135 Q275 155 285 270Z" fill="#8d9a80"/>
+<path d="M284 195 Q229 130 283 71 Q341 126 284 195Z" fill="#8d9a80" opacity=".82"/>
+<path d="M30 30 H105 M30 30 V92 M690 415 V480 H625" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="2"/>
+<text x="35" y="477" fill="#fff" font-family="Georgia,serif" font-size="16" letter-spacing="4">RUANG CERITA · MORNING</text>
+</svg>
