@@ -1,5 +1,5 @@
 /* Ruang Literasi — artikel diambil dari content/posts.json yang dibangun dari CMS. */
-const SITE = {email: 'halo@example.com'}; // Ganti dengan email Anda
+const SITE = {email: 'saputradanyadi@gmail.com'}; // Ganti dengan email Anda
 let posts = [];
 let categories = ['Semua'];
 let activeCategory = 'Semua';
