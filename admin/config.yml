@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: dany2201/ruang-literasi
   branch: main
 
 locale: id
